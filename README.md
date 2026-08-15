@@ -1,6 +1,6 @@
 # MCP Order Server
 
-A minimal MCP (Model Context Protocol) server in .NET, exposing a single tool — `get_order_status` — over Streamable HTTP. Built to accompany [Building MCP Servers: A Practical Guide for .NET Developers](https://arunendapally.com).
+A minimal MCP (Model Context Protocol) server in .NET, exposing a single tool — `get_order_status` — over Streamable HTTP. Built to accompany [Building MCP Servers: A Practical Guide for .NET Developers](https://arunendapally.com/posts/building-mcp-servers-guide/), which walks through the concepts, the transports, auth for remote servers, and testing with MCP Inspector.
 
 ## What it does
 
